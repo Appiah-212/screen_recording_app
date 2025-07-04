@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Joseph-Appiah-kubi-s-workspace-duom3e.us-east-1.xata.sh/db/Daakyehene_snapcast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
